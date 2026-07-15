@@ -24,10 +24,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 My Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FaizanAhmed187&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=FaizanAhmed187&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaizanAhmed187&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizanAhmed187&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
